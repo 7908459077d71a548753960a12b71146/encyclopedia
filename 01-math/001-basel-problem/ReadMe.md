@@ -71,15 +71,9 @@
 
 ![](./sum.png)
 
-### 我认为的最简单证明方法
+### 其他证明方法
 
-除了欧拉的证明方法之外，越来越多的证明方法也被发现，下面这个是我认为更好理解的证明方法。
-
-
-
-### 扩展：黎曼函数
-
+有人在网络上整理了巴塞尔问题的二十多种证明方法，从微积分、复函数、泰勒公式、傅里叶公式等角度得到了证明方法，参考阅读[链接（学渣劝退）](https://www.cnblogs.com/misaka01034/p/BaselProof.html)。
 
 ### 参考链接
-[1.巴塞尔问题的多种解法](https://www.cnblogs.com/misaka01034/p/BaselProof.html)  
-[2.]()  
+[1. 欧拉成名作！证明全体自然数平方的倒数和=π^2/6](https://www.bilibili.com/video/BV1cb411r7ac/?vd_source=9454d2431b3d9551fbf15ca6dda64986)  
