@@ -1,10 +1,10 @@
 #!/bin/bash
 
-msg=$1
+msg=$@
 if [[ $msg == "" ]]; then
     msg="update"
 fi
 
 git add .
-git commit -m $msg
+git commit -m "$msg"
 git push origin `git branch | grep '*' | awk '{print $2}'`
