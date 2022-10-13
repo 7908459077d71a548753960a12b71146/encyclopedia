@@ -3,3 +3,4 @@
 2. [魔鬼数字 0x5F3759DF]()
 3. [会稽山]()
 4. [PI 的计算史](./01-math/002-calc-pi/ReadMe.md)
+5. [发现 Scala 的一个 bug](./02-program/001-a-scala-bug/README.md)
