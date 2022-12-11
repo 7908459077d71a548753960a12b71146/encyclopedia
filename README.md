@@ -1,5 +1,6 @@
 ### [巴塞尔问题](./01-math/001-basel-problem/ReadMe.md)
 ### [魔鬼数字 0x5F3759DF]()
-### [PI 的计算史](./01-math/002-calc-pi/ReadMe.md)
-### [发现 Scala 的一个 bug](./02-program/001-a-scala-bug/README.md)
+### [0 的阶乘为什么是 1]()
+### [π 的计算史](./01-math/002-calc-pi/ReadMe.md)
+### [Scala 的一个 bug](./02-program/001-a-scala-bug/README.md)
 ### [一堆笔记](./00-notes/README.md)
